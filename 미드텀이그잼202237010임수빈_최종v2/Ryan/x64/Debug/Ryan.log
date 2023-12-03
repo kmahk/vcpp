@@ -1,0 +1,58 @@
+﻿  yuhanCG.cpp
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(17,86): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(17,64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(17,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(17,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(23,85): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(23,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(23,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(23,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(24,87): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(24,68): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(24,46): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(24,24): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(33,64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(33,28): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(34,62): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(34,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(39,65): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(39,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(40,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(40,27): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(49,84): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(49,65): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(49,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(49,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(50,86): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(50,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(50,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(50,24): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(89,27): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(94,70): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(94,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(95,70): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(95,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(102,25): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(105,90): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(116,27): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(117,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(119,27): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(120,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(123,27): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(124,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(126,27): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(127,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(141,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(144,26): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(145,27): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(160,30): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(161,30): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(171,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(177,33): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.h(193,23): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.cpp(51,19): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.cpp(57,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.cpp(63,21): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.cpp(69,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\Ryan\yuhanCG.cpp(75,19): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ryan.vcxproj -> C:\Users\fodzl\vcpp\미드텀이그잼202237010임수빈_최종\x64\Debug\Ryan.exe
